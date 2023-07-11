@@ -1,3 +1,5 @@
+# HR Analytics Power BI Project
+
 ### Overview
 This Power BI project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization. The dataset used for analysis contains several columns related to employee information as stated below.
 
